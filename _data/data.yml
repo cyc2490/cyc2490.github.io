@@ -47,13 +47,13 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: multimodal model
+    - item: Multimodal model
       link:
-    - item: knowledge distillation
+    - item: Knowledge distillation
       link:
-    - item: time series anomaly detection
+    - item: Time series anomaly detection
       link:
-    - item: deep learning for physics
+    - item: Deep learning for physics
       link:
 
 
