@@ -47,7 +47,7 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Multimodal model
+    - item: Vision-language model
       link:
     - item: Knowledge distillation
       link:
