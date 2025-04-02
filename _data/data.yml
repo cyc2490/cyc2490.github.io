@@ -73,9 +73,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ph.D., Electrical Engineering
+    university: KAIST, Daejeon
+    time: 03/21 - 02/25
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +84,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: M.S., Electrical Engineering
+    university: KAIST, Daejeon
+    time: 03/18 - 02/20
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,6 +95,18 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
+  - degree: B.S., Electronic & Electrical Engineering
+    university: Hongik University, Seoul
+    time: 03/11 - 02/18
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
 
 experiences:
   title: Experiences
