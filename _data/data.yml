@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Yucheol Cho
-  tagline: AI specialist
+  tagline: AI Specialist
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -24,8 +24,8 @@ sidebar:
   # telegram: # add your nickname without '@' sign
   # gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  # twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
