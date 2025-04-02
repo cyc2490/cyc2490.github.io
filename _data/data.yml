@@ -47,16 +47,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: multimodal model
+      link:
+    - item: knowledge distillation
+      link:
+    - item: time series anomaly detection
+      link:
+    - item: deep learning for physics
       link:
 
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
 
 
 career-profile:
