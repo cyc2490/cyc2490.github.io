@@ -13,16 +13,16 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: cyc2490@gmail.com
+  # phone: 012 345 6789
+  # timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
+  # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/in/yucheol-cho-ab61b1245/
+  # xing: alandoe
+  # github: jekyll
+  # telegram: # add your nickname without '@' sign
+  # gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
   twitter: '@jekyllrb'
