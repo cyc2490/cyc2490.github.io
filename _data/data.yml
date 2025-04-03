@@ -239,6 +239,17 @@ publications:
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
+publications_2:
+  title: Publications2
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+  papers:
+  - title: The Art of Computer Programming
+    link: "#"
+    authors: Donald E. Knuth
+    conference: Addison-Wesley, 1968
 
 recommendations:
   title: Recommendations
