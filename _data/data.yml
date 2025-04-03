@@ -239,12 +239,26 @@ publications:
     authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daeshik Kim† (*Equal contribution, †Equal correspondence)
     conference: "Machine Learning: Science and Technology, Nov. 2024."
 
-  - title: A syntax directed compiler for Algol 60
+  - title: Robustness-Reinforced Knowledge Distillation with Correlation Distance and Network Pruning
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors: Seonghak Kim*, Gyeongdo Ham*, Yucheol Cho*, and Daeshik Kim (*Equal contribution)
+    conference: "Transactions on Knowledge and Data Engineering, Aug. 2024."
 
-  
+  - title: 
+    link: "#"
+    authors:  (*Equal contribution)
+    conference: ""
+
+  - title: 
+    link: "#"
+    authors:  (*Equal contribution)
+    conference: ""
+
+  - title: 
+    link: "#"
+    authors:  (*Equal contribution)
+    conference: ""
+
 recommendations:
   title: Recommendations
   list:
