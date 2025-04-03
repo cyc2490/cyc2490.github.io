@@ -136,7 +136,7 @@ experiences:
 publications:
   title: Publications
   intro: |
-    Journal (First-author papers are highlighted.)
+    Journal 
   papers:
   - title: "Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
     link: "https://doi.org/10.1007/s10489-025-06481-7"
@@ -175,7 +175,7 @@ publications:
 
   intro_2: |
     -----------------------
-    Conference (First-author papers are highlighted.)
+    Conference 
   papers_2:
   - title: "MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation"
     link: "https://openreview.net/forum?id=mzL19kKE3r"
