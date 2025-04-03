@@ -2,12 +2,12 @@
 
 # Site Settings
 title: Yucheol Cho
-# url: 'http://webjeda.com'
-url: 'https://cyc2490.github.io'
+url: 'http://webjeda.com'
+# url: 'https://cyc2490.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-#baseurl: '/online-cv' 
+baseurl: 'https://cyc2490.github.io' 
 
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
