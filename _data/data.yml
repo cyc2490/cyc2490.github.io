@@ -221,12 +221,12 @@ publications:
   - title: "Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
     link: "#"
     authors: Yucheol Cho, Jae-Hyeok Lee, Gyeongdo Ham, Donggon Jang, and Dae-shik Kim
-    conference: Applied Intelligence, Mar. 2025.
+    conference: "Applied Intelligence, Mar. 2025."
     
   - title: "Difficulty Level-based Knowledge Distillation"
     link: "#"
     authors: Gyeongdo Ham*, Yucheol Cho*, Jae-Hyeok Lee, Minchan Kang, Gyuwon Choi, and Daeshik Kim (*Equal contribution)
-    conference: Neurocomputing, Sep. 2024.
+    conference: "Neurocomputing, Sep. 2024."
 
   - title: "SemiH: DFT Hamiltonian Neural Network Training with Semi-supervised Learning"
     link: "#"
