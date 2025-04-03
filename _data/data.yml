@@ -61,15 +61,12 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: | 
-    Yucheol Cho received the Ph.D. degree from Korean Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2025, advised by the professor [Dae-Shik Kim](https://scholar.google.com/citations?user=nd-UgBYAAAAJ&hl=en&oi=ao). 
-    please!
+    Yucheol Cho received his Ph.D. from the Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2025, under the supervision of Professor [Dae-Shik Kim](https://scholar.google.com/citations?user=nd-UgBYAAAAJ&hl=en&oi=ao) .
+
+    He earned his master's degree in 2020 from KAIST, specializing in first-principles-based materials analysis. Afterward, he worked at Samsung Electronics for a year until 2021. During his time at Samsung, he developed a strong interest in deep learning, which led him to pursue a Ph.D. in the field of deep learning and machine learning, aiming to become an expert in AI.
+
+    His doctoral research included topics related to data engineering, focusing on data generation, training, and inference. He has a broad interest in various AI-related fields, including multimodal models, knowledge distillation, time series anomaly detection, and deep learning for physics. Currently, he is continuing his career at the Agency for Defense Development (ADD).
     
-    yucheol cho yucheol cho Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
 education:
   title: Education
   info:
