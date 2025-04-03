@@ -216,7 +216,7 @@ oss:
 publications:
   title: Publications
   intro: |
-    ddd
+    You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur
   papers:
   - title: "Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
     link: "#"
