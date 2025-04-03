@@ -261,7 +261,7 @@ publications:
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
     
-  conference!
+conference!
   
   papers:
   - title: The Art of Computer Programming
