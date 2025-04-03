@@ -185,7 +185,7 @@ publications:
   - title: "DFT Hamiltonian Neural Network Training with Semi-supervised Learning"
     link: "https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_18.pdf"
     authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daehsik Kim† (*Equal contribution, †Equal correspondence)
-    conference: "NeurIPS workshop on Machine Learning and the Physical Sciences, 2023."
+    conference: "NeurIPS workshop on Machine Learning and the Physical Sciences (ML4PS), 2023."
 
   - title: "First-principles Study on As Antisites in InGaAs Alloys, GaAs and InAs"
     link: "https://iwcn2023.uab.es/abstract/92.pdf"
