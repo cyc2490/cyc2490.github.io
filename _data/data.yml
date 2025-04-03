@@ -176,20 +176,35 @@ publications:
   intro_2: |
     Conference (First-author papers are highlighted.)
   papers_2:
-  - title: "gogogo"
+  - title: "MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation"
     link: "#"
-    authors: gogogo
-    conference: "gogogo"
+    authors: Donggon Jang*, Yucheol Cho*, Suin Lee, Taehyeon Kim, and Daehsik Kim (*Equal contribution) 
+    conference: "International Conference on Learning Representations (ICLR), 2025."
+
+  - title: "DFT Hamiltonian Neural Network Training with Semi-supervised Learning"
+    link: "#"
+    authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daehsik Kim† (*Equal contribution, †Equal correspondence)
+    conference: "NeurIPS workshop on Machine Learning and the Physical Sciences, 2023."
+
+  - title: "First-principles Study on As Antisites in InGaAs Alloys, GaAs and InAs"
+    link: "#"
+    authors: Yucheol Cho, Gyeongdo Ham and Daehsik Kim
+    conference: "International Workshop on Computational Nanotechnology (IWCN), 2023."
     
-# publications_2:
-#   title: Conference!
-#   intro: |
-#     Conference (First-author papers are highlighted.)
-#   papers:
-#   - title: "gogogo"
-#     link: "#"
-#     authors: Yucheol Cho, Jae-Hyeok Lee, Gyeongdo Ham, Donggon Jang, and Dae-shik Kim
-#     conference: "Applied Intelligence, Mar. 2025."
+  - title: "Effect of Trap on Carrier Transport in InAs FET with Al2O3 Oxide"
+    link: "#"
+    authors: Mincheol Shin, Yucheol Cho, and Seong Hyeok Jeon
+    conference: "SISPAD, Udine, Italy, 2019."
+
+  - title: "Atomistic Simulation of GaSb/InAs Ultra-thin-body Tunnel FETs"
+    link: "#"
+    authors: Yucheol Cho, and Mincheol Shin
+    conference: "Nano Korea 2019, Kintex, Ilsan, Korea, 2019."
+
+  - title: "GaSb/InAs Heterojunction-based Tunnel FETs: A first-principles study"
+    link: "#"
+    authors: Yucheol Cho, Yunhee Chang, Mincheol Shin
+    conference: "The 26th Korean Conference on Semiconductors, Jeongseon, 2019."
 
 certifications:
   title: Certifications
