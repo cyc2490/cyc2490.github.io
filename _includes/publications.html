@@ -28,5 +28,11 @@
   </div><!--//item-->
   {% endfor %}
 
+  {% if publications.intro_2 %}
+  <div class="intro">
+    {{ publications.intro_2 | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
 </section><!--//section-->
 {% endif %}
