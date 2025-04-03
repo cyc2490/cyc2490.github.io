@@ -224,10 +224,10 @@ publications:
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: ""
+  - title: "Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
     link: "#"
-    authors: 
-    conference: ""
+    authors: Yucheol Cho, Jae-Hyeok Lee, Gyeongdo Ham, Donggon Jang, and Dae-shik Kim
+    conference: Applied Intelligence, Mar. 2025.
     
   - title: The Art of Computer Programming
     link: "#"
