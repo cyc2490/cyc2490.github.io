@@ -239,25 +239,25 @@ publications:
     authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daeshik Kim† (*Equal contribution, †Equal correspondence)
     conference: "Machine Learning: Science and Technology, Nov. 2024."
 
-  - title: Robustness-Reinforced Knowledge Distillation with Correlation Distance and Network Pruning
+  - title: "Robustness-Reinforced Knowledge Distillation with Correlation Distance and Network Pruning"
     link: "#"
     authors: Seonghak Kim*, Gyeongdo Ham*, Yucheol Cho*, and Daeshik Kim (*Equal contribution)
     conference: "Transactions on Knowledge and Data Engineering, Aug. 2024."
 
-  - title: Ambiguity-aware Robust Teacher (ART): Enhanced Self-knowledge Distillation Framework with Pruned Teacher Network
+  - title: "Ambiguity-aware Robust Teacher (ART): Enhanced Self-knowledge Distillation Framework with Pruned Teacher Network"
     link: "#"
     authors: Yucheol Cho*, Gyeongdo Ham*, Jae-Hyeok Lee, and Daeshik Kim (*Equal contribution)
-    conference: Pattern Recognition, Vol. 140C, 109541, Aug. 2023.
+    conference: "Pattern Recognition, Vol. 140C, 109541, Aug. 2023."
 
-  - title: P-PseudoLabel: Enhanced Pseudo-Labeling Framework with Network Pruning in Semi-Supervised Learning
+  - title: "P-PseudoLabel: Enhanced Pseudo-Labeling Framework with Network Pruning in Semi-Supervised Learning"
     link: "#"
     authors: Gyeongdo Ham*, Yucheol Cho*, Jae-Hyeok Lee, and Daeshik Kim (*Equal contribution)
-    conference: IEEE Access, Vol. 10, 115652 - 115662, Oct. 2022.
+    conference: "IEEE Access, Vol. 10, 115652 - 115662, Oct. 2022."
 
   - title: "Principles-based Quantum Transport Simulations of Interfacial Point Defect Effects on InAs Nanowire Tunnel Field- Effect Transistors"
     link: "#"
     authors: Hyeongu Lee, Yucheol Cho, Seonghyeok Jeon, and Mincheol Shin
-    conference: IEEE Transctions on Electron Devices, vol. 68, pp. 5901 - 5907, Nov. 2021.
+    conference: "IEEE Transctions on Electron Devices, vol. 68, pp. 5901 - 5907, Nov. 2021."
 
 recommendations:
   title: Recommendations
