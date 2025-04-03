@@ -173,8 +173,15 @@ publications:
     authors: Hyeongu Lee, Yucheol Cho, Seonghyeok Jeon, and Mincheol Shin
     conference: "IEEE Transctions on Electron Devices, vol. 68, pp. 5901 - 5907, Nov. 2021."
     
-  intro_2: |
+publications_2:
+  title: Conference!
+  intro: |
     Conference (First-author papers are highlighted.)
+  papers:
+  - title: "gogogo"
+    link: "#"
+    authors: Yucheol Cho, Jae-Hyeok Lee, Gyeongdo Ham, Donggon Jang, and Dae-shik Kim
+    conference: "Applied Intelligence, Mar. 2025."
 
 certifications:
   title: Certifications
