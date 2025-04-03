@@ -178,32 +178,32 @@ publications:
     Conference (First-author papers are highlighted.)
   papers_2:
   - title: "MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation"
-    link: "#"
+    link: "https://openreview.net/forum?id=mzL19kKE3r"
     authors: Donggon Jang*, Yucheol Cho*, Suin Lee, Taehyeon Kim, and Daehsik Kim (*Equal contribution) 
     conference: "International Conference on Learning Representations (ICLR), 2025."
 
   - title: "DFT Hamiltonian Neural Network Training with Semi-supervised Learning"
-    link: "#"
+    link: "https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_18.pdf"
     authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daehsik Kim† (*Equal contribution, †Equal correspondence)
     conference: "NeurIPS workshop on Machine Learning and the Physical Sciences, 2023."
 
   - title: "First-principles Study on As Antisites in InGaAs Alloys, GaAs and InAs"
-    link: "#"
+    link: "https://iwcn2023.uab.es/abstract/92.pdf"
     authors: Yucheol Cho, Gyeongdo Ham and Daehsik Kim
     conference: "International Workshop on Computational Nanotechnology (IWCN), 2023."
     
   - title: "Effect of Trap on Carrier Transport in InAs FET with Al2O3 Oxide"
-    link: "#"
+    link: "https://doi.org/10.1109/SISPAD.2019.8870567"
     authors: Mincheol Shin, Yucheol Cho, and Seong Hyeok Jeon
     conference: "SISPAD, Udine, Italy, 2019."
 
   - title: "Atomistic Simulation of GaSb/InAs Ultra-thin-body Tunnel FETs"
-    link: "#"
+    link: "https://koasas.kaist.ac.kr/handle/10203/268588"
     authors: Yucheol Cho, and Mincheol Shin
     conference: "Nano Korea 2019, Kintex, Ilsan, Korea, 2019."
 
   - title: "GaSb/InAs Heterojunction-based Tunnel FETs: A first-principles study"
-    link: "#"
+    link: "https://koasas.kaist.ac.kr/handle/10203/263507"
     authors: Yucheol Cho, Yunhee Chang, Mincheol Shin
     conference: "The 26th Korean Conference on Semiconductors, Jeongseon, 2019."
 
