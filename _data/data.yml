@@ -133,6 +133,48 @@ experiences:
     details: |
       Device experiments
 
+publications:
+  title: Publications
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+  papers:
+  - title: "Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
+    link: "#"
+    authors: Yucheol Cho, Jae-Hyeok Lee, Gyeongdo Ham, Donggon Jang, and Dae-shik Kim
+    conference: Applied Intelligence, Mar. 2025.
+    
+  - title: "Difficulty Level-based Knowledge Distillation"
+    link: "#"
+    authors: Gyeongdo Ham*, Yucheol Cho*, Jae-Hyeok Lee, Minchan Kang, Gyuwon Choi, and Daeshik Kim (*Equal contribution)
+    conference: Neurocomputing, Sep. 2024.
+
+  - title: "SemiH: DFT Hamiltonian Neural Network Training with Semi-supervised Learning"
+    link: "#"
+    authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daeshik Kim† (*Equal contribution, †Equal correspondence)
+    conference: "Machine Learning: Science and Technology, Nov. 2024."
+
+  - title: "Robustness-Reinforced Knowledge Distillation with Correlation Distance and Network Pruning"
+    link: "#"
+    authors: Seonghak Kim*, Gyeongdo Ham*, Yucheol Cho*, and Daeshik Kim (*Equal contribution)
+    conference: "Transactions on Knowledge and Data Engineering, Aug. 2024."
+
+  - title: "Ambiguity-aware Robust Teacher (ART): Enhanced Self-knowledge Distillation Framework with Pruned Teacher Network"
+    link: "#"
+    authors: Yucheol Cho*, Gyeongdo Ham*, Jae-Hyeok Lee, and Daeshik Kim (*Equal contribution)
+    conference: "Pattern Recognition, Vol. 140C, 109541, Aug. 2023."
+
+  - title: "P-PseudoLabel: Enhanced Pseudo-Labeling Framework with Network Pruning in Semi-Supervised Learning"
+    link: "#"
+    authors: Gyeongdo Ham*, Yucheol Cho*, Jae-Hyeok Lee, and Daeshik Kim (*Equal contribution)
+    conference: "IEEE Access, Vol. 10, 115652 - 115662, Oct. 2022."
+
+  - title: "Principles-based Quantum Transport Simulations of Interfacial Point Defect Effects on InAs Nanowire Tunnel Field- Effect Transistors"
+    link: "#"
+    authors: Hyeongu Lee, Yucheol Cho, Seonghyeok Jeon, and Mincheol Shin
+    conference: "IEEE Transctions on Electron Devices, vol. 68, pp. 5901 - 5907, Nov. 2021."
+
 
 certifications:
   title: Certifications
@@ -217,47 +259,6 @@ oss:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: "Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
-    link: "#"
-    authors: Yucheol Cho, Jae-Hyeok Lee, Gyeongdo Ham, Donggon Jang, and Dae-shik Kim
-    conference: Applied Intelligence, Mar. 2025.
-    
-  - title: "Difficulty Level-based Knowledge Distillation"
-    link: "#"
-    authors: Gyeongdo Ham*, Yucheol Cho*, Jae-Hyeok Lee, Minchan Kang, Gyuwon Choi, and Daeshik Kim (*Equal contribution)
-    conference: Neurocomputing, Sep. 2024.
-
-  - title: "SemiH: DFT Hamiltonian Neural Network Training with Semi-supervised Learning"
-    link: "#"
-    authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daeshik Kim† (*Equal contribution, †Equal correspondence)
-    conference: "Machine Learning: Science and Technology, Nov. 2024."
-
-  - title: "Robustness-Reinforced Knowledge Distillation with Correlation Distance and Network Pruning"
-    link: "#"
-    authors: Seonghak Kim*, Gyeongdo Ham*, Yucheol Cho*, and Daeshik Kim (*Equal contribution)
-    conference: "Transactions on Knowledge and Data Engineering, Aug. 2024."
-
-  - title: "Ambiguity-aware Robust Teacher (ART): Enhanced Self-knowledge Distillation Framework with Pruned Teacher Network"
-    link: "#"
-    authors: Yucheol Cho*, Gyeongdo Ham*, Jae-Hyeok Lee, and Daeshik Kim (*Equal contribution)
-    conference: "Pattern Recognition, Vol. 140C, 109541, Aug. 2023."
-
-  - title: "P-PseudoLabel: Enhanced Pseudo-Labeling Framework with Network Pruning in Semi-Supervised Learning"
-    link: "#"
-    authors: Gyeongdo Ham*, Yucheol Cho*, Jae-Hyeok Lee, and Daeshik Kim (*Equal contribution)
-    conference: "IEEE Access, Vol. 10, 115652 - 115662, Oct. 2022."
-
-  - title: "Principles-based Quantum Transport Simulations of Interfacial Point Defect Effects on InAs Nanowire Tunnel Field- Effect Transistors"
-    link: "#"
-    authors: Hyeongu Lee, Yucheol Cho, Seonghyeok Jeon, and Mincheol Shin
-    conference: "IEEE Transctions on Electron Devices, vol. 68, pp. 5901 - 5907, Nov. 2021."
 
 recommendations:
   title: Recommendations
