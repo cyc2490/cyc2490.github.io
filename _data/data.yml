@@ -136,7 +136,7 @@ experiences:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur
+    Journal (First-author papers are highlighted.)
   papers:
   - title: "Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
     link: "#"
