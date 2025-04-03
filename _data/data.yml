@@ -209,23 +209,17 @@ publications:
 
 oss:
   title: Awards
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
   - title: The 5th Korea Artificial Intelligence Conference
-    link: "#"
     tagline: "Outstanding Paper Award"
 
   - title: Smart HACCP Data Challenge
-    link: "#"
     tagline: "Top Prize"
 
   - title: Samsung Outstanding Internship Prize
-    link: "#"
     tagline: "Samsung Semiconductor Research Center"
 
   - title: KT Group Scholarship Student
-    link: "#"
     tagline: "KT IT MASTER"
 
 
