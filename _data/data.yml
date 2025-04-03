@@ -133,6 +133,17 @@ experiences:
     details: |
       Device experiments
 
+
+publications:
+  title: Journal
+  intro: |
+    First-author papers are highlighted
+  papers:
+  - title: Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection
+    link: "#"
+    authors: Yucheol Cho, Jae-Hyeok Lee, Gyeongdo Ham, Donggon Jang, and Dae-shik Kim
+    conference: plied Intelligence, Mar. 2025.
+
 certifications:
   title: Certifications
   list:
