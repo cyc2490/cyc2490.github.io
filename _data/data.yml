@@ -180,17 +180,17 @@ publications:
   - title: "MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation"
     link: "https://openreview.net/forum?id=mzL19kKE3r"
     authors: Donggon Jang*, Yucheol Cho*, Suin Lee, Taehyeon Kim, and Daehsik Kim (*Equal contribution) 
-    conference: "International Conference on Learning Representations (ICLR), 2025."
+    conference: "International Conference on Learning Representations (ICLR), Singapore, Apr 24-28, 2025."
 
   - title: "DFT Hamiltonian Neural Network Training with Semi-supervised Learning"
     link: "https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_18.pdf"
     authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daehsik Kim† (*Equal contribution, †Equal correspondence)
-    conference: "NeurIPS workshop on Machine Learning and the Physical Sciences (ML4PS), 2023."
-
+    conference: "NeurIPS workshop on Machine Learning and the Physical Sciences (ML4PS), New Orleans, Dec 15-16, 2023."
+    
   - title: "First-principles Study on As Antisites in InGaAs Alloys, GaAs and InAs"
     link: "https://iwcn2023.uab.es/abstract/92.pdf"
     authors: Yucheol Cho, Gyeongdo Ham and Daehsik Kim
-    conference: "International Workshop on Computational Nanotechnology (IWCN), 2023."
+    conference: "International Workshop on Computational Nanotechnology (IWCN), Barcelona (Spain), June 12-16, 2023."
     
   - title: "Effect of Trap on Carrier Transport in InAs FET with Al2O3 Oxide"
     link: "https://doi.org/10.1109/SISPAD.2019.8870567"
