@@ -156,7 +156,7 @@ publications:
   - title: "Robustness-Reinforced Knowledge Distillation with Correlation Distance and Network Pruning"
     link: "https://doi.org/10.1109/TKDE.2024.3438074"
     authors: Seonghak Kim*, Gyeongdo Ham*, Yucheol Cho*, and Daeshik Kim (*Equal contribution)
-    conference: "Transactions on Knowledge and Data Engineering, Aug. 2024."
+    conference: "IEEE Transactions on Knowledge and Data Engineering, Aug. 2024."
 
   - title: "Ambiguity-aware Robust Teacher (ART): Enhanced Self-knowledge Distillation Framework with Pruned Teacher Network"
     link: "https://doi.org/10.1016/j.patcog.2023.109541"
