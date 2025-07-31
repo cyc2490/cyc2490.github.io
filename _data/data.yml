@@ -110,8 +110,14 @@ education:
 experiences:
   title: Experiences
   info:
+  - role: Kongju National University
+    time: 09/25 - present
+    company: Assistant Professor
+    details: |
+      Department of Software
+  
   - role: Agency for Defense Development (ADD) 
-    time: 04/25 - Present
+    time: 04/25 - 08/25
     company: Senior Researcher
     details: |
       Defense AI technology development
