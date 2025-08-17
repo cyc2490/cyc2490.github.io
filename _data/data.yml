@@ -146,7 +146,7 @@ publications:
   intro: |
     Journal 
   papers:
-  - title: "Generality- aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
+  - title: "Generality-aware Self-supervised Transformer for Multivariate Time Series Anomaly Detection"
     link: "https://doi.org/10.1007/s10489-025-06481-7"
     authors: Yucheol Cho, Jae-Hyeok Lee, Gyeongdo Ham, Donggon Jang, and Dae-shik Kim
     conference: "Applied Intelligence, 55.7, 604, Mar. 2025."
@@ -154,12 +154,12 @@ publications:
   - title: "Difficulty Level-based Knowledge Distillation"
     link: "https://doi.org/10.1016/j.neucom.2024.128375"
     authors: Gyeongdo Ham*, Yucheol Cho*, Jae-Hyeok Lee, Minchan Kang, Gyuwon Choi, and Daeshik Kim (*Equal contribution)
-    conference: "Neurocomputing, 606, 128375, Sep. 2024."
+    conference: "Neurocomputing, 606, 128375, Nov. 2024."
 
   - title: "SemiH: DFT Hamiltonian Neural Network Training with Semi-supervised Learning"
     link: "https://doi.org/10.1088/2632-2153/ad7227"
     authors: Yucheol Cho*, Guenseok Choi*, Gyeongdo Ham, Mincheol Shin† and Daeshik Kim† (*Equal contribution, †Equal correspondence)
-    conference: "Machine Learning: Science and Technology, 5(3), 035060, Nov. 2024."
+    conference: "Machine Learning: Science and Technology, 5(3), 035060, Sep. 2024."
 
   - title: "Robustness-Reinforced Knowledge Distillation with Correlation Distance and Network Pruning"
     link: "https://doi.org/10.1109/TKDE.2024.3438074"
